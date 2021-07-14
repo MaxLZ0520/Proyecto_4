@@ -9,7 +9,10 @@ Para las formas de ondas se obtuvieron las siguientes graficas:
 
 ![image](https://user-images.githubusercontent.com/86036883/125568312-577e9e3a-6e4a-4c60-82e9-48daf269b07c.png)
 
-Por ultimo para determinar y graficar la densidad espectral de potencia para la señal modulada se procedio a realizar una 
+Por ultimo para determinar y graficar la densidad espectral de potencia para la señal modulada se procedio a realizar una importacion de la libreria fft desde scipy, para realizar se aplica la transformada de fourier a la señal para obtener la grafica y se obtiene lo siguiente:
+
+![image](https://user-images.githubusercontent.com/86036883/125570640-e621ae65-4e21-4c5b-b291-a9be00392c10.png)
+
 
 
         
